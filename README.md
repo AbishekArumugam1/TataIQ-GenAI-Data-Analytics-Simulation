@@ -1,6 +1,3 @@
-# TataIQ-GenAI-Data-Analytics-Simulation
-My work on the Tata iQ Data Analytics &amp; AI Job Simulation, including EDA, predictive modeling, and AI concept reports.
-
 # Tata iQ - Data Analytics & AI Job Simulation
 
 This repository contains my completed work from the **Tata iQ Data Analytics Job Simulation** offered by Tata Group via Forage.
